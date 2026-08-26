@@ -1,20 +1,11 @@
-.htaccess
-/config.php
-admin/config.php
-
-!index.html
-
-download/
-image/data/
-image/cache/
-system/cache/
-system/logs/
-
-system/storage/
-
-# vQmod log files
-vqmod/logs/*
-# vQmod cache files
-vqmod/vqcache/*
-vqmod/checked.cache
-vqmod/mods.cache
+test_downloads
+storage
+videos
+storage
+__pycache__
+.env
+terabox_bot.session 
+terabox_bot.session-journal
+firebase_secrets.json
+fb_secrets.json
+  
